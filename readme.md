@@ -21,17 +21,6 @@ I'm a computer science student, passionate about web dev. I enjoy exploring new 
 
 ## Skills / Technologies
 ![JS SVG](js.svg)  ![Java SVG](java.svg) ![HTML svg](html.svg) ![react](react.svg) ![tailwind](tailwind.png) ![npm](npm.svg) ![tag](tag.svg) ![vite](vite.svg) ![css](css.svg) ![github](github.svg) ![vercel](vercel.png)  ![nodejs](nodejs.png)
-- Java 
-- JavaScript 
-- React.js
-- Tailwind
-- CSS
-- C Programming
-- Vite
-- Vercel
-- npm
-- Node
-- HTML5
 
 ## Let's Connect
 Feel free to reach out if you want to collaborate on something cool!
