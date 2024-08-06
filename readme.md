@@ -14,13 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Priyanshu 👋
+# Hello 👋
 
 ## About Me
 I'm a computer science student, passionate about web dev. I enjoy exploring new technologies and sharing knowledge.
 
 ## Skills / Technologies
-![JS SVG](js.svg)  ![Java SVG](java.svg) ![HTML svg](html.svg) ![react](react.svg) ![tailwind](tailwind.png) ![npm](npm.svg) ![tag](tag.svg) ![vite](vite.svg) ![css](css.svg) ![github](github.svg) ![vercel](vercel.png)  ![nodejs](nodejs.png) ![react router](reactRouter.png)
+![JS SVG](js.svg)  
+![Java SVG](java.svg) 
+![Python](python.png) 
+![react](react.svg) 
+![tailwind](tailwind.png) 
+![npm](npm.svg) 
+![vite](vite.svg) 
+![css](css.svg)  
+![nodejs](nodejs.png)
 
 ## Let's Connect
 Feel free to reach out if you want to collaborate on something cool!
