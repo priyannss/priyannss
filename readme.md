@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 I'm a computer science student, passionate about web dev. I enjoy exploring new technologies and sharing knowledge.
 
 ## Skills / Technologies
-![JS SVG](js.svg)  
+![JS SVG](js.svg) 
 ![Java SVG](java.svg) 
 ![Python](python.png) 
 ![react](react.svg) 
 ![tailwind](tailwind.png) 
 ![npm](npm.svg) 
 ![vite](vite.svg) 
-![css](css.svg)  
+![css](css.svg) 
+![HTML](html.svg) 
 ![nodejs](nodejs.png)
 
 ## Let's Connect
