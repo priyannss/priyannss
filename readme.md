@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 I'm a computer science student, passionate about web dev. I enjoy exploring new technologies and sharing knowledge.
 
 ## Skills / Technologies
-![Java SVG](java.svg) 
-![C programming](cProgramming.webp)
+![Java SVG](java.svg)
 ![JS SVG](js.svg) 
 ![react](react.svg) 
 ![Python](python.png) 
