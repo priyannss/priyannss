@@ -21,9 +21,10 @@ I'm a computer science student, passionate about web dev. I enjoy exploring new 
 
 ## Skills / Technologies
 ![Java SVG](java.svg)
-![C programming](C_Programming_Language.svg.png)
 ![JS SVG](js.svg) 
 ![react](react.svg) 
+![express](expressjs.svg) 
+![C programming](C_Programming_Language.svg.png)
 ![Python](python.png) 
 ![tailwind](tailwind.png)
 ![css](css.svg) 
