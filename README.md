@@ -1,7 +1,7 @@
 # Hello 👋
 
 ## About Me
-I'm a computer science student, passionate about web dev. 
+I'm a computer science student, passionate about web dev.  
 I enjoy exploring new technologies, building projects, and sharing what I learn.
 
 ## Tech Stack
