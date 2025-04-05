@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a computer science student, passionate about web dev.  
-I enjoy exploring new technologies and sharing what I learn.
+I enjoy exploring new technologies, building projects and sharing what I learn.
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
