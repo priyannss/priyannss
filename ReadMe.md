@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a computer science student, passionate about web dev.  
-I enjoy exploring new technologies, building projects, and sharing what I learn.
+I enjoy exploring new technologies, building projects, and sharing what I learn.  
 Portfolio: [Priyanshu dev](https://priyans-dev.vercel.app/)
 
 ## Tech Stack
