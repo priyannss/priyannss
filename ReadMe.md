@@ -4,7 +4,7 @@
 Hi! I'm Priyanshu, and I enjoy building things for the web.
 Also I love problem solving in DS and algorithms. Outside of coding, I like hanging out with my friends and family.
 
-Portfolio: [Priyans-dev](https://priyans-dev.vercel.app/)
+Portfolio: [Priyans-dev](https://priyans-dev.vercel.app/)  
 Recent Project: [Experia](https://theexperia.vercel.app/)
 
 ## Tech Stack
